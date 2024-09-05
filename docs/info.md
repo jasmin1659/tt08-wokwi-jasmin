@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+There are three modules: MyCounter (tests if the button is pressed or released), score (recieves the increment signal from MyCounter and sends the 7 segment information back to Wokwi module), and Wokwi (Takes the inputs from 
+the buttons and clock. Then it sends the information to MyCounter. Next, it sends the information recieved by MyCounter back out to the 7 segment display and LEDs).
 
 ## How to test
 
