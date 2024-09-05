@@ -32,14 +32,11 @@ pinout:
   uo[5]: "SEG_D"
   uo[6]: "SEG_E"
   uo[7]: "SEG_F"
-  uo[8]: "SEG_G"
-  uo[9]: "DIG1"
-  uo[10]: "DIG2"
 
   # Bidirectional pins
-  uio[0]: ""
-  uio[1]: ""
-  uio[2]: ""
+  uio[0]: "SEG_G"
+  uio[1]: "DIG1"
+  uio[2]: "DIG2"
   uio[3]: ""
   uio[4]: ""
   uio[5]: ""
