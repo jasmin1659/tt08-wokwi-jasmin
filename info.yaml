@@ -45,3 +45,6 @@ pinout:
 
 # Do not change!
 yaml_version: 6
+ - name: Wokwi IoT and Embedded System Simulator
+   uses: wokwi/wokwi-ci-action@v1.1.0
+            
