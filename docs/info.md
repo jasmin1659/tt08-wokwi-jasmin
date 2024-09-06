@@ -14,7 +14,10 @@ the buttons and clock. Then it sends the information to MyCounter. Next, it send
 
 ## How to test
 
-Explain how to use your project
+1. Click the red button to increment the counter
+2. Blue LED indicates the counter is an even number
+3. Red LED indicates the counter is an odd number
+4. Press the black reset button to reset the counter back to 0
 
 ## External hardware
 
